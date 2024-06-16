@@ -14,7 +14,17 @@ Before we start, make sure you have the following installed:
 📂 Project Structure
 
 
-////🛠️ Step-by-Step Guide///
+////🛠️ Step-by-Step Guide/////
+
+1. Set up EC2 machine and log-in using Gitbash and Install docker on EC2 machine
+2. 📦 Setting Up Your Flask App
+3. 📜 Listing Dependencies
+4.  🐳 Creating the Dockerfile
+5.  🏗️ Building the Docker Image
+6.  🚢 Running the Docker Container
+7.  🔍 Verify the Deployment
+
+TRY IT BY OWN ""CONGURATULATION TO YOUSELF  "" AFTER SUSSCESFULLY DEPLOY
 
 
 
