@@ -26,6 +26,10 @@ Before we start, make sure you have the following installed:
 
 TRY IT BY OWN ""CONGURATULATION TO YOUSELF  "" AFTER SUSSCESFULLY DEPLOY
 
+NOTE : IF YOU ARE FACING ISSUE YOU CAN REFER MY BLOG THERE I GUIDE STEP BY STEP ON CLICKING LINK -----
+
+
+https://learnwithdivya.hashnode.dev/deploying-a-simple-flask-app-with-docker
 
 
 
